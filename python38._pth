@@ -1,0 +1,8 @@
+python38.zip
+#..\pkgs
+..\pkgs\futu.zip
+.
+
+# Uncomment to run site.main() automatically
+import site
+
